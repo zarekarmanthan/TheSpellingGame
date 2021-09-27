@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: 9050042851e274043816b56adcce05a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2126175519469412737
+    second: Keyboard-Button
+  - first:
+      213: 3448191568269081267
+    second: Outline-Button
+  - first:
+      213: -3528027018402211354
+    second: Input-Bar
+  - first:
+      213: 6102133081763385389
+    second: NoAd-Button
+  - first:
+      213: 290363037094526929
+    second: Restart-Button
+  - first:
+      213: -7505763190308858619
+    second: Level-Button
+  - first:
+      213: 8469603686568754905
+    second: Home-Button
+  - first:
+      213: -9029760111268194714
+    second: Cross-Button
+  - first:
+      213: -81000754145274593
+    second: Setting-Button
+  - first:
+      213: -1445589033460625129
+    second: Sound-Button
+  - first:
+      213: 3957650161068776910
+    second: Back-Button
+  - first:
+      213: -9131264788121909204
+    second: Round-Rectangle-Button
+  - first:
+      213: 6866693944664621983
+    second: Colored-Backdrop
+  - first:
+      213: -7262761344986336833
+    second: White-Backdrop
+  - first:
+      213: 2221894110312836480
+    second: Family-Button
+  - first:
+      213: 2797718691933684349
+    second: Round-Button
+  - first:
+      213: -3704194538144136980
+    second: Ring-Button
+  - first:
+      213: 3690995058757820514
+    second: Check-Button
+  - first:
+      213: 3154610533674173328
+    second: Group-Button
+  - first:
+      213: 8189360974912014306
+    second: Leaderboard-Button
+  - first:
+      213: 3213741980386989027
+    second: Grey-Slot
+  - first:
+      213: 5158909541138588911
+    second: Level-Selector-Up-Button
+  - first:
+      213: -354704650728507140
+    second: Level-Selector-Down-Button
+  - first:
+      213: 1714285064939350658
+    second: Solo-Button
+  - first:
+      213: 6515534639659350345
+    second: Avatar-01
+  - first:
+      213: -4725473062986060295
+    second: Avatar-02
+  - first:
+      213: -930036043544329687
+    second: Avatar-03
+  - first:
+      213: 7934428260819238645
+    second: Avatar-04
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Keyboard-Button
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1887
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 16, z: 16, w: 17}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ed4e741ae4e72e0800000000000000
+      internalID: -2126175519469412737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outline-Button
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1887
+        width: 237
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 17, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bafc2846ff6adf20800000000000000
+      internalID: 3448191568269081267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Input-Bar
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1976
+        width: 452
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 23, z: 23, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9d72a7e1ee90fc0800000000000000
+      internalID: -3528027018402211354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoAd-Button
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1904
+        width: 122
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d209aa615b12fa450800000000000000
+      internalID: 6102133081763385389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Restart-Button
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1904
+        width: 110
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df3ce1d4a3970400800000000000000
+      internalID: 290363037094526929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Button
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1910
+        width: 122
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5051079452c26d790800000000000000
+      internalID: -7505763190308858619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Home-Button
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1910
+        width: 115
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9def446dda31a8570800000000000000
+      internalID: 8469603686568754905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross-Button
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1911
+        width: 119
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6661ed04509dfa280800000000000000
+      internalID: -9029760111268194714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting-Button
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1906
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15d1a64e3a30eef0800000000000000
+      internalID: -81000754145274593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound-Button
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1906
+        width: 137
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7111161ee6c30fbe0800000000000000
+      internalID: -1445589033460625129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back-Button
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1906
+        width: 66
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd95cb5ad56ce630800000000000000
+      internalID: 3957650161068776910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round-Rectangle-Button
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1889
+        width: 457
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 29, y: 27, z: 28, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2806f10e0b374180800000000000000
+      internalID: -9131264788121909204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Backdrop
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1239
+        width: 436
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 19, z: 21, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f938f09e2c56b4f50800000000000000
+      internalID: 6866693944664621983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White-Backdrop
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1239
+        width: 436
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 19, z: 22, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1b6a7590d753b90800000000000000
+      internalID: -7262761344986336833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Family-Button
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1771
+        width: 142
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08daab5dbe0c5de10800000000000000
+      internalID: 2221894110312836480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round-Button
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1773
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d728d2ec35e73d620800000000000000
+      internalID: 2797718691933684349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring-Button
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1773
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce00af671be089cc0800000000000000
+      internalID: -3704194538144136980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Check-Button
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1780
+        width: 142
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2606bf0437c093330800000000000000
+      internalID: 3690995058757820514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group-Button
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1771
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093ca58019d67cb20800000000000000
+      internalID: 3154610533674173328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard-Button
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1773
+        width: 125
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7c317ea6476a170800000000000000
+      internalID: 8189360974912014306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey-Slot
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1239
+        width: 358
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 26, y: 26, z: 27, w: 24}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e31ab4dd41899c20800000000000000
+      internalID: 3213741980386989027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Selector-Up-Button
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1239
+        width: 356
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 27, y: 25, z: 28, w: 26}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe460f305e0289740800000000000000
+      internalID: 5158909541138588911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Selector-Down-Button
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1239
+        width: 356
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 26, z: 26, w: 23}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8f52ddff5d31bf0800000000000000
+      internalID: -354704650728507140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solo-Button
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1784
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aa7731f2d5ac710800000000000000
+      internalID: 1714285064939350658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-01
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 714
+        width: 489
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949f5a6eb34db6a50800000000000000
+      internalID: 6515534639659350345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-02
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 714
+        width: 489
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fde90d294fbb6eb0800000000000000
+      internalID: -4725473062986060295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-03
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 714
+        width: 489
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9220b3c5529d713f0800000000000000
+      internalID: -930036043544329687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-04
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 714
+        width: 489
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe73fdf670cc1e60800000000000000
+      internalID: 7934428260819238645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fd9bfac9aa9cdb142bcbd635ec9d3a92
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
